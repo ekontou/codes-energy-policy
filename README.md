@@ -1,4 +1,7 @@
 ## Code documentation of the "Disparities and Equity Issues in Electric Vehicles Rebate Allocation" journal article.
+
+[![DOI](https://zenodo.org/badge/356318676.svg)](https://zenodo.org/badge/latestdoi/356318676)
+
 The preliminary research results were presented at TRB 2021. 
 The complete scientific work is hosted at [SSRN](https://ssrn.com/abstract=3687504), and accepted by Energy Policy journal.
 
