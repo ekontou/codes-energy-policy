@@ -6,7 +6,7 @@ The preliminary research results of the paper written by Shuocheng Guo and Eleft
 The complete scientific work is hosted at [SSRN](https://ssrn.com/abstract=3687504), and accepted by the Energy Policy journal.
 
 ### Rcode and RMarkDown
-We used R to process the socioeconomic data, including [California rebate data](https://cleanvehiclerebate.org/eng/rebate-statistics) from 2010 to 2018, median income and population data from [Census Bureau](https://www.census.gov/data/data-tools.html), and the [CES3.0 score record](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30) from The Office of Environmental Health Hazard Assessment (OEHHA) in California.
+We used R to process the socioeconomic data, including [California rebate data](https://cleanvehiclerebate.org/eng/rebate-statistics) from 2010 to 2018, median income and population data from the American Community Survey of [Census Bureau](https://www.census.gov/data/data-tools.html), and the [CES3.0 score record](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30) from The Office of Environmental Health Hazard Assessment (OEHHA) in California.
 The main processing is to compute the Gini index and Suit index leveraging the aforementioned data. The detailed codes are included in ''data_visualization.rmd''.
 
 ### Geoda 
