@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/356318676.svg)](https://zenodo.org/badge/latestdoi/356318676)
 
 The preliminary research results were presented at TRB 2021. 
-The complete scientific work is hosted at [SSRN](https://ssrn.com/abstract=3687504), and accepted by Energy Policy journal.
+The complete scientific work is hosted at [SSRN](https://ssrn.com/abstract=3687504), and accepted by the Energy Policy journal.
 
 ### Rcode and RMarkDown
 We used R to process the socioeconomic data, including [California rebate data](https://cleanvehiclerebate.org/eng/rebate-statistics) from 2010 to 2018, median income and population data from [Census Bureau](https://www.census.gov/data/data-tools.html), and the [CES3.0 score record](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30) from The Office of Environmental Health Hazard Assessment (OEHHA) in California.
