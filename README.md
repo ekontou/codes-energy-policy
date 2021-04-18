@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/356318676.svg)](https://zenodo.org/badge/latestdoi/356318676)
 
-The preliminary research results were presented at TRB 2021. 
+The preliminary research results of the paper written by Shuocheng Guo and Eleftheria Kontou were presented at TRB 2021. 
 The complete scientific work is hosted at [SSRN](https://ssrn.com/abstract=3687504), and accepted by the Energy Policy journal.
 
 ### Rcode and RMarkDown
